@@ -40,10 +40,6 @@ Program to design a half adder and full adder circuit and verify its truth table
 
 Developed by: R SANTHOSH KUMAR,
 
-
-
-
-
 RegisterNumber:  23000966
 ![image](https://github.com/23000966/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153983364/1a02f62f-fecd-4aa3-91cc-8d8b1582facb)
 
